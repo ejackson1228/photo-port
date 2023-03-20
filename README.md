@@ -9,7 +9,7 @@
 ## Description
 
 
-A React application built to showcase a photographer's portfolio. 
+A React Single-Page-Application built to showcase a photographer's portfolio. 
   
 ## Table of Contents
   - [Description](#description)
